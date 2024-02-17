@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\HomeTestMyself\ConsoleProjectLab\ConsoleProjectLab\bin\Debug\net8.0\ConsoleProjectLab.exe
+C:\Users\Hp\Desktop\HomeTestMyself\ConsoleProjectLab\ConsoleProjectLab\bin\Debug\net8.0\ConsoleProjectLab.deps.json
+C:\Users\Hp\Desktop\HomeTestMyself\ConsoleProjectLab\ConsoleProjectLab\bin\Debug\net8.0\ConsoleProjectLab.runtimeconfig.json
+C:\Users\Hp\Desktop\HomeTestMyself\ConsoleProjectLab\ConsoleProjectLab\bin\Debug\net8.0\ConsoleProjectLab.dll
+C:\Users\Hp\Desktop\HomeTestMyself\ConsoleProjectLab\ConsoleProjectLab\bin\Debug\net8.0\ConsoleProjectLab.pdb
+C:\Users\Hp\Desktop\HomeTestMyself\ConsoleProjectLab\ConsoleProjectLab\obj\Debug\net8.0\ConsoleProjectLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\HomeTestMyself\ConsoleProjectLab\ConsoleProjectLab\obj\Debug\net8.0\ConsoleProjectLab.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\HomeTestMyself\ConsoleProjectLab\ConsoleProjectLab\obj\Debug\net8.0\ConsoleProjectLab.AssemblyInfo.cs
+C:\Users\Hp\Desktop\HomeTestMyself\ConsoleProjectLab\ConsoleProjectLab\obj\Debug\net8.0\ConsoleProjectLab.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\HomeTestMyself\ConsoleProjectLab\ConsoleProjectLab\obj\Debug\net8.0\ConsoleProjectLab.dll
+C:\Users\Hp\Desktop\HomeTestMyself\ConsoleProjectLab\ConsoleProjectLab\obj\Debug\net8.0\refint\ConsoleProjectLab.dll
+C:\Users\Hp\Desktop\HomeTestMyself\ConsoleProjectLab\ConsoleProjectLab\obj\Debug\net8.0\ConsoleProjectLab.pdb
+C:\Users\Hp\Desktop\HomeTestMyself\ConsoleProjectLab\ConsoleProjectLab\obj\Debug\net8.0\ConsoleProjectLab.genruntimeconfig.cache
+C:\Users\Hp\Desktop\HomeTestMyself\ConsoleProjectLab\ConsoleProjectLab\obj\Debug\net8.0\ref\ConsoleProjectLab.dll
